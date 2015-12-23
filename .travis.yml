@@ -6,7 +6,7 @@ before_install:
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
-  file: "./build/libs/diamondtorch-.${TRAVIS_TAG}jar"
+  file: "./build/libs/diamondtorch-${TRAVIS_TAG}.jar"
   skip_cleanup: true
   on:
     tags: true
