@@ -1,0 +1,9 @@
+item.item0.name=Broken Diamond Torch
+item.item1.name=Diamond Torch I
+item.item2.name=Diamond Torch II
+item.item3.name=Diamond Torch III
+item.item4.name=Diamond Torch IV
+item.item5.name=Diamond Torch V
+
+key.categories.diamondtorch=Diamond Torch
+key.diamondtorch.torchCollect=Torch Collect

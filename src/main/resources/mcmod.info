@@ -1,0 +1,16 @@
+[
+{
+  "modid": "diamondtorch",
+  "name": "Diamond Torch",
+  "description": "Diamond Torch add super stacked torches.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["laco"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
