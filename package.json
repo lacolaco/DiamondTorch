@@ -1,0 +1,22 @@
+{
+  "name": "diamondtorch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "changelog": "$(npm bin)/conventional-changelog -i CHANGELOG.md -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laco0416/DiamondTorch.git"
+  },
+  "author": "laco0416",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laco0416/DiamondTorch/issues"
+  },
+  "homepage": "https://github.com/laco0416/DiamondTorch#readme",
+  "dependencies": {
+    "conventional-changelog": "^0.5.1"
+  }
+}
